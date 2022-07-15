@@ -1,2 +1,2 @@
-# Final-Praject
+# Final-Project
 Final Year B.E Project
